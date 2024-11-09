@@ -2,7 +2,7 @@
 👀 I'm interested in developing innovative software solutions, exploring artificial intelligence, and building user-friendly applications.
 🌱 I'm currently learning advanced concepts in AI/ML techniques, and working on enhancing my skills in full-stack development.
 💞️ I'm looking to collaborate on open-source projects related to web development, AI applications, and data analysis.
-📫 How to reach me: Feel free to connect with me through email at nanditsrivastava3@gmail.com.
+
 😄 Pronouns: "I am not MAD !!!"
 ⚡ Fun fact: I love solving complex puzzles, and I can travel 24*7 without getting tired 😄!!!!
 <!---
